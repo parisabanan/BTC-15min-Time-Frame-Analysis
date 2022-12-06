@@ -9,3 +9,11 @@ The purpose of this repository is to analyse Bitcoin's price in a 15-minute time
 3) Identify Bitcoin's up and down trends
 
 4) Analysing the start and end date, price changes, percentage changes and number of candles in each trend
+
+### Install 
+``` 
+git clone https://github.com/parisabanan/BTC-15min-Time-Frame-Analysis  
+cd BTC-15min-Time-Frame-Analysis
+conda env create -f env.yml   
+conda activate env 
+```
